@@ -72,8 +72,6 @@ Create a `.env` file in the project directory:
 GOOGLE_API_KEY=your_gemini_api_key
 ```
 
-Make sure `.env` is included in `.gitignore` so your API key is not uploaded to GitHub.
-
 ## ▶️ Run the Chatbot
 
 ```bash
