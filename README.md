@@ -75,7 +75,7 @@ GOOGLE_API_KEY=your_gemini_api_key
 ## ▶️ Run the Chatbot
 
 ```bash
-python chatbot.py
+streamlit run  qna-bot.py
 ```
 
 Enter your questions in the terminal and the chatbot will generate responses using the Gemini model through LangChain.
